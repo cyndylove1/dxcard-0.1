@@ -1,0 +1,29 @@
+div{
+   /* background-color: red */
+   padding: 20px;
+   width: 300px;
+   display: inline-block;
+   
+   
+
+    
+}
+.firstdiv{
+    background-color: aqua;
+}
+#seconddiv{
+background-color: blue;
+
+}
+.thirddiv{
+    background-color: brown;
+}
+.parentdiv{
+    width:90% ;
+    height: 200px;
+    text-align: center;
+    margin:0 auto;
+
+}
+
+
